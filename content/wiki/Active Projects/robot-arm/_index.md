@@ -31,6 +31,14 @@ Working on a variety of problems in vision, control, and high level planning (RL
 
 ## What have we done?
 
+### December 2022
+
+- Reconstructed the Robot Arm to reduce the unnecessary torque acting against the arms motion.
+
+- Double the motors acting at the base of the arm to achieve more torque and help provide further reach for the robot
+
+- Constructed another potential prototype for the robot arm chess grippers
+
 ### May 2021
 
 - Object detection working on chess pieces with 90%+ accuracy using YOLOv5 and usable in ROS
